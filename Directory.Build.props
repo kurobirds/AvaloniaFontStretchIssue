@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <AccelerateBuildsInVisualStudio>true</AccelerateBuildsInVisualStudio>
+    <Nullable>enable</Nullable>
+    <AvaloniaVersion>11.0.10</AvaloniaVersion>
+  </PropertyGroup>
+</Project>
